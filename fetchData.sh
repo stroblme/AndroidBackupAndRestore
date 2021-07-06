@@ -6,3 +6,5 @@ do
   APP=$( echo ${APP} | sed "s/^package://")
   adb backup -f ${APP}.backup ${APP}
 done
+
+cd ..

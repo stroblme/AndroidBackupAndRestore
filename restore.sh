@@ -1,0 +1,2 @@
+./installApk.sh
+./restoreData.sh
