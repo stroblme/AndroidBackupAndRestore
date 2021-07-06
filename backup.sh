@@ -1,0 +1,2 @@
+./fetchApk.sh
+./fetchData.sh
