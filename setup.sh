@@ -1,6 +1,6 @@
-rm "./all"
-rm "./apk"
-rm "./data"
+rm "./all" -r
+rm "./apk" -r
+rm "./data" -r
 
 mkdir "all"
 mkdir "apk"
